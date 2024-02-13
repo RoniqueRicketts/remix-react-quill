@@ -28,9 +28,11 @@ npm start
 
 Now you'll need to pick a host to deploy it to.
 
-### DIY
+### Remix React-Quill Solution
 
-If you're familiar with deploying express applications you should be right at home just make sure to deploy the output of `remix build`
+Install Remix-Quill and Remix Utils and utilize Remix Utils' ClientOnly component to render Remix-Quill.
+
+Look at my solution code or read my short blog [here](https://www.rickettstech.com)
 
 - `build/`
 - `public/build/`

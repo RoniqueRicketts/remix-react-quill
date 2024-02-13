@@ -23,6 +23,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-quill": "^2.0.0",
+    "remix-utils": "^7.5.0",
     "source-map-support": "^0.5.21"
   },
   "devDependencies": {
